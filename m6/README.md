@@ -1,8 +1,11 @@
 # M6 – Pipeline ETL con Power Query y M
 
 **Archivo:** `Pipeline_ETL_Benedetti_Teresa.pbix`
+
 **Fuente:** `Pipeline_ETL_Dataset.xlsx` (dataset provisto por el curso)
+
 **Herramienta:** Power BI Desktop – Editor de Power Query
+
 
 ## 1. Perfilado de datos
 
